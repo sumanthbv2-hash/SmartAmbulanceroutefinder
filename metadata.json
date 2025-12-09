@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Green Corridor - AEIS",
+  "description": "Advanced Emergency Navigation System with AI-powered traffic optimization and routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
